@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Stevie011
+
+If you're learning to code (like me) and are looking for a simple project to contribute to, please let me know.
+
 - 👀 I’m spending lots of time playing with python and node, really keen to learn more about AI & ML
 - 🌱 javascript was my first serious relationship but i think python's stealing my heart
 - 💞️ I’m looking to collaborate on starter projects, or anything really. I want to learn.
