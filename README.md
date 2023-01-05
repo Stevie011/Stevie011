@@ -8,19 +8,14 @@
 
 - 🔭 I’m currently working for an algo trading company (I can't put anything on here because of my NDA), but also on [a supermarket price comparison SaaS app](http://shop-compare-env.eba-axhpgjvs.us-west-2.elasticbeanstalk.com/)
 
-- 🌱 I’m currently learning **SQL.**
 
-- 👯 I’m looking to collaborate on **auto trading ideas.**
-
-- 🤝 I’m looking for help with **learning about ML.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stevie011](https://github.com/Stevie011)
 
-- 💬 Ask me about **Pinescript, Django.**
 
-- 📫 How to reach me **steven.stewart.dev@gmail.com**
+- 📫 Reach me at **steven.stewart.dev@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Omr9rGsMQ2nijX9kMdVi2U84jETFPp_3/edit?usp=sharing&ouid=102758299630983122072&rtpof=true&sd=true](https://docs.google.com/document/d/1Omr9rGsMQ2nijX9kMdVi2U84jETFPp_3/edit?usp=sharing&ouid=102758299630983122072&rtpof=true&sd=true)
+- 📄 Check out my resume [here](https://docs.google.com/document/d/1Omr9rGsMQ2nijX9kMdVi2U84jETFPp_3/edit?usp=sharing&ouid=102758299630983122072&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I once built a powered rail over 500 blocks in 1 direction in Minecraft.**
 
