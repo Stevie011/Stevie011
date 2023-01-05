@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">My journey as a software developer began with an interest in algorithmic trading, and I’ve also gained a strong foundation in Python. I enjoy tackling intricate problems and continuously learning. My experience in finance, alongside my ability to absorb new concepts quickly, makes me a valuable asset to any team. I'm excited to apply my knowledge and grow while helping a company reach its goals.</h3>
+<h3 align="center">I started with algorithmic trading (MQL4, now Pinescript), and I’ve also gained a strong foundation in Python. I'm decent with JS, and I'm learning SQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevie011&label=Profile%20views&color=0e75b6&style=flat" alt="stevie011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevie011" alt="stevie011" /></a> </p>
 
-- 🔭 I’m currently working on [a supermarket price comparison SaaS app](http://shop-compare-env.eba-axhpgjvs.us-west-2.elasticbeanstalk.com/)
+- 🔭 I’m currently working for an algo trading company, but also on [a supermarket price comparison SaaS app](http://shop-compare-env.eba-axhpgjvs.us-west-2.elasticbeanstalk.com/)
 
 - 🌱 I’m currently learning **SQL.**
 
