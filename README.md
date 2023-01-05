@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">I started with algorithmic trading (MQL4, now Pinescript), and I’ve also gained a strong foundation in Python. I'm decent with JS, and I'm learning SQL.</h3>
+<h1 align="center">Hi 👋, I'm Steven and I write code.</h1>
+<h3 align="center">I work on an algorithmic trading app and I also do stuff with Python. I'm decent with JS, and I'm learning SQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevie011&label=Profile%20views&color=0e75b6&style=flat" alt="stevie011" /> </p>
 
