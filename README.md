@@ -10,7 +10,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Stevie011](https://github.com/Stevie011)
+- 👨‍💻 All of my projects are [here](https://github.com/Stevie011?tab=repositories)
 
 
 - 📫 Reach me at **steven.stewart.dev@gmail.com**
