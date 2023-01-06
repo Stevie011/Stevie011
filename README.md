@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevie011" alt="stevie011" /></a> </p>
 
-- 🔭 I’m currently working for an algo trading company (I can't put anything on here because of my NDA), but also on [a supermarket price comparison SaaS app](http://shop-compare-env.eba-axhpgjvs.us-west-2.elasticbeanstalk.com/)
+- 🔭 I’m currently working for an algo trading company (I can't put anything on here because of my NDA), but also on [a supermarket price comparison SaaS app](http://shop-compare-env.eba-axhpgjvs.us-west-2.elasticbeanstalk.com/).
+- This is all personal projects - we don't use github at work.
 
 
 
